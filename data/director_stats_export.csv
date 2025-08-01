@@ -1,11 +1,1071 @@
-Director,Best Genre,director_clean,avg_roi
-william brent bell,Horror,william brent bell,5329.07926
-jordan peele,Horror,jordan peele,3089.205285
-henry joost,Horror,henry joost,2350.13938
-ariel schulman,Horror,ariel schulman,2350.13938
-barry jenkins,Drama,barry jenkins,2157.596929166667
-alex kendrick,Drama,alex kendrick,2012.5677500000002
-john r. leonetti,Horror,john r. leonetti,1973.6908862179484
-daniel stamm,Drama,daniel stamm,1849.6471777777779
-james demonaco,Horror,james demonaco,1722.2143640740742
-david f. sandberg,Drama,david f. sandberg,1712.9900541176469
+director_clean,avg_roi,film_count,proven_director
+aaron horvath,416.20593,1,False
+aaron seltzer,307.12494000000004,1,False
+abby kohn,186.105615625,1,False
+abhijit guha,143.388614,1,False
+adam carolla,-92.4554,1,False
+adam mckay,177.2569633690476,4,True
+adam montierth,-98.83466666666666,1,False
+adam robitel,1578.85588,1,False
+adam shankman,118.37399464285716,2,False
+adam wingard,289.85577,1,False
+adrian molina,356.00462914285714,1,False
+ahsan rahim,-93.41293333333334,1,False
+aki kaurismäki,145.09447272727272,1,False
+akiva schaffer,-15.129886363636366,2,False
+alan poul,115.08908285714286,1,False
+alan taylor,254.27101952688173,2,True
+albert hughes,96.89070474264706,2,False
+alejandro amenábar,-20.87813,1,False
+alejandro g. iñárritu,384.0931507407407,2,True
+alejandro monteverde,-11.153505,1,False
+aleksander bach,134.80800857142856,1,False
+aleksandr kott,-92.4708,1,False
+alessandro carloni,269.71367285714285,1,False
+alex garland,-21.689245454545457,1,False
+alex gibney,-94.03906896551723,1,False
+alex kendrick,2012.5677500000002,2,True
+alex kurtzman,44.54598589743589,2,False
+alex proyas,-0.8308885714285714,1,False
+alexander payne,287.9920903594771,3,True
+alexandre aja,248.584,1,False
+alfonso cuarón,530.6351572727273,1,False
+alfonso gomez-rejon,15.827250000000001,1,False
+alfonso perugini,-90.665625,1,False
+ali abbas zafar,563.5434636363636,1,False
+alister grierson,263.1903266666667,1,False
+allen coulter,253.16325,1,False
+allen hughes,48.47646776785714,2,False
+amat escalante,-44.7386,1,False
+amy heckerling,-99.407425,1,False
+anand tucker,71.67852631578947,1,False
+andrea arnold,-25.378571428571426,1,False
+andrew adamson,12.051447999999999,1,False
+andrew dominik,161.58962,1,False
+andrew erwin,566.8575791208792,2,True
+andrew gurland,-68.1647,1,False
+andrew haigh,730.3078947368422,1,False
+andrew hyatt,410.58995999999996,1,False
+andrew jarecki,-95.631915,1,False
+andrew jay cohen,-22.0189375,1,False
+andrew mogel,-74.25446666666666,1,False
+andrew niccol,200.33983957142857,2,True
+andrew smith,253.43553333333335,1,False
+andrew stanton,206.71799824999997,2,True
+andrew traucki,50.37867,1,False
+andrey konchalovskiy,-77.25998222222222,1,False
+andy fickman,210.27181022807017,3,True
+andy muschietti,1390.0204138095237,2,True
+andy tennant,201.79741555555557,1,False
+ang lee,417.42666916666667,1,False
+angelina jolie,-8.621044358974364,3,False
+angelo pizzo,-88.77000000000001,1,False
+angus maclane,410.60759649999994,1,False
+anna boden,262.3306660714286,2,True
+anna kazejak,-98.176,1,False
+anne fletcher,16.86335964285714,2,False
+anoosh tertzakian,-7.360600000000001,1,False
+anthony hemingway,-13.16293448275862,1,False
+anthony russo,419.6585234980392,3,True
+anthony silverston,39.32147333333334,1,False
+anthony stacchi,86.577085,1,False
+antoine fuqua,167.89676976623377,5,True
+anton corbijn,190.10644083333332,2,True
+anurag basu,392.71283152173913,2,True
+ari aster,601.33905,1,False
+ari sandel,289.32432823529416,2,True
+ariel schulman,2350.13938,3,True
+ariel vromen,23.08337142857143,1,False
+asaf lavi harel,196.92145846153846,1,False
+asger leth,18.146285714285714,1,False
+ashish r. mohan,162.21005357142857,1,False
+aslaug holm,37.35913846153846,1,False
+ava duvernay,23.959695145631066,2,False
+ayan mukherjee,512.3791084337349,1,False
+babak najafi,98.84430249999998,2,False
+baltasar kormákur,179.17666164294724,4,True
+barry cook,76.13779294117647,1,False
+barry jenkins,2157.596929166667,2,True
+barry levinson,-77.42564666666667,1,False
+barry sonnenfeld,204.2853418604651,1,False
+baz luhrmann,84.75811526315789,1,False
+ben affleck,218.75690506373272,3,True
+ben ducker,196.92145846153846,1,False
+ben falcone,224.1508284099617,3,True
+ben lewin,1049.5203999999999,1,False
+ben stiller,58.569123219780224,2,False
+ben younger,-58.725462500000006,1,False
+benh zeitlin,1192.5073333333335,1,False
+bennett miller,122.60167,1,False
+benny boom,21.948566666666665,1,False
+benson lee,-16.383115,1,False
+bethany ashton wolf,367.88759999999996,1,False
+bill condon,305.33485427884614,2,True
+bill holderman,811.13683,1,False
+bill muir,-78.01472000000001,1,False
+bille woodruff,176.81292,2,True
+billy dickson,-74.56277142857142,1,False
+billy ray,63.040094999999994,1,False
+björn stein,129.11418571428572,1,False
+blair treu,202.45855,1,False
+blaz zavrsnik,-98.48892857142857,1,False
+bo burnham,617.0508,1,False
+boaz yakin,72.01692734848486,2,False
+bob logan,75.33885857142857,1,False
+bob odenkirk,211.64747,1,False
+bobby farrelly,133.2514766993464,3,True
+boots riley,471.42375000000004,1,False
+brad anderson,445.48028124999996,1,False
+brad bird,271.40297716176474,2,True
+brad furman,54.39623646198831,3,False
+brad j. silverman,47.47994117647059,1,False
+brad peyton,198.9207305440556,5,True
+bradford lewis,180.0776915,1,False
+bradley cooper,1104.026586111111,1,False
+bradley parker,4141.1721,1,False
+breck eisner,130.3026989473684,2,True
+brenda chapman,199.7873145945946,1,False
+brenna sanchez,393.01155555555556,1,False
+brett haley,21.0481,1,False
+brett ratner,144.00141858823528,3,True
+brian fee,119.16649657142857,1,False
+brian helgeland,142.06170806451613,2,True
+brian klugman,172.82846666666666,1,False
+brian levant,66.97449285714285,1,False
+brian percival,300.4563736842105,1,False
+brian robbins,-48.023785000000004,1,False
+bruce dellis,-98.83466666666666,1,False
+bruce robinson,-52.122817777777776,1,False
+bryan singer,501.83802399241443,4,True
+burr steers,-15.200018181818184,2,False
+byron howard,352.5939566153846,2,True
+cal brunker,64.49374875000001,2,False
+cameron crowe,53.03595272972973,2,False
+camille delamarre,189.51499902597402,2,True
+candy j. beard,-88.27620333333334,1,False
+carl rinsch,-13.304677142857143,1,False
+carlos saldanha,293.97515648879653,3,True
+carmen marron,-92.55681632653061,1,False
+cary solomon,201.79368333333332,1,False
+catherine gund,-99.6356,1,False
+catherine hardwicke,7.380174920634919,3,False
+cezary pazura,730.3078947368422,1,False
+chad stahelski,154.11667,1,False
+chan-wook park,0.29094166666666665,1,False
+charles ferguson,289.96285,1,False
+charles martin smith,110.13445138888889,2,False
+charles stone iii,158.4842277777778,1,False
+charlie bean,75.33885857142857,1,False
+charlie kaufman,-28.672900000000002,1,False
+chip rossetti,134.9789181818182,1,False
+chris buck,748.3132733333333,1,False
+chris butler,80.19943666666667,1,False
+chris columbus,152.97397684210526,2,True
+chris gorak,80.55090517241379,1,False
+chris lofing,41556.473999999995,1,False
+chris mckay,288.3250225,1,False
+chris miller,326.9134438461538,1,False
+chris renaud,748.7083193319984,4,True
+chris rock,116.681175,1,False
+chris sanders,262.20847148148147,2,True
+chris wedge,162.794441,1,False
+chris weitz,-81.15749,1,False
+chris williams,310.12028166666664,2,True
+christian ditter,170.2804864864865,1,False
+christian e. christiansen,228.41066875,1,False
+christian gudegast,167.10463666666666,1,False
+christian rivers,-14.712583000000002,1,False
+christophe lourdelet,745.9397186666667,1,False
+christopher landon,1183.7767033333334,4,True
+christopher m. bessette,-99.73981034482759,1,False
+christopher mcquarrie,262.28456,1,False
+christopher miller,536.1456003492063,3,True
+christopher morris,-35.037040000000005,1,False
+christopher nolan,313.4088979185606,4,True
+christopher spencer,222.4990590909091,1,False
+chuck konzelman,201.79368333333332,1,False
+chuck rayner,-74.81078947368421,1,False
+chuck russell,-98.27995555555556,1,False
+ciarán foy,441.04225,1,False
+clay kaytis,382.6409410958904,1,False
+clint eastwood,256.0240935580577,7,True
+cody cameron,251.78544743589742,1,False
+colin minihan,7.5943499999999995,1,False
+colin strause,582.64973,1,False
+colin trevorrow,578.2758195348837,2,True
+conrad vernon,529.517624754991,2,True
+courtney solomon,-34.366727777777776,1,False
+craig brewer,162.4576416666667,1,False
+craig gillespie,112.84222992207793,4,False
+craig johnson,479.7192,1,False
+craig zobel,207.66666666666666,1,False
+curtis hanson,-58.495895,1,False
+cyrus nowrasteh,-56.46608928571428,1,False
+cédric kahn,-81.15749,1,False
+d.j. caruso,140.556774496732,3,True
+damien chazelle,1062.6584774747473,3,True
+dan bradley,-25.90130769230769,1,False
+dan cutforth,172.50365833333333,1,False
+dan fogelman,-15.341550000000002,1,False
+dan gilroy,225.55529358288769,2,True
+dan kwan,94.57036666666667,1,False
+dan mazer,813.7256434782608,1,False
+dan scanlon,271.79416449999997,1,False
+dan trachtenberg,2065.7284400000003,1,False
+daniel barnz,26.967480030959756,2,False
+daniel beard,-88.27620333333334,1,False
+daniel castro zimbrón,172.457325,1,False
+daniel espinosa,45.12294250574712,3,False
+daniel scheinert,94.57036666666667,1,False
+daniel stamm,1849.6471777777779,2,True
+daniele luchetti,-73.82820666666666,1,False
+danny boyle,107.04742458333334,4,False
+darren aronofsky,887.1280754700856,3,True
+dave green,153.0721492022792,2,True
+david ayer,181.40734155059525,4,True
+david bowers,207.44117542087542,3,True
+david boyd,138.32958333333335,1,False
+david cronenberg,-25.962345,1,False
+david dobkin,49.193490884615386,2,False
+david e. talbert,159.60346470588235,2,True
+david f. sandberg,1712.9900541176469,3,True
+david fincher,377.4949739450515,3,True
+david frankel,133.1100314137308,3,True
+david g. evans,32.90018518518519,1,False
+david gelb,667.1862,1,False
+david gordon green,463.2463170666666,5,True
+david hayter,-99.47248333333333,1,False
+david koepp,-29.822458333333334,2,False
+david l. hunt,-77.77674444444445,1,False
+david leitch,332.3662964646465,3,True
+david lowery,1295.64109,2,True
+david m. matthews,62.22775,1,False
+david m. rosenthal,234.8787,1,False
+david mackenzie,213.20253333333335,1,False
+david michôd,14.882162324929968,2,False
+david midell,-91.5412,1,False
+david nixon,7.915066666666666,1,False
+david o. russell,522.9319223176823,5,True
+david peers,17.00478962962963,1,False
+david r. ellis,-24.491388,1,False
+david slade,938.3865117647058,1,False
+david soren,172.80782606237818,2,True
+david twohy,149.37831052631577,1,False
+david wain,-61.451204102564105,2,False
+david yarovesky,299.84997142857145,1,False
+david yates,221.90795470370372,3,True
+dax shepard,-7.238832,1,False
+dean deblois,275.4334047028424,3,True
+dean devlin,120.796009,1,False
+dean israelite,96.51080083333333,2,False
+dean parisot,68.46113690476191,1,False
+dean wright,-16.447875,1,False
+debra granik,706.57755,1,False
+denis villeneuve,167.2154854926394,5,True
+denise di novi,35.17675833333334,1,False
+deniz gamze ergüven,296.61314285714286,1,False
+dennis dugan,182.74841975342827,4,True
+dennis gansel,174.3471,1,False
+dennis widmyer,421.4340285714286,1,False
+denzel washington,167.8453375,1,False
+deon taylor,630.4295826388889,2,True
+derek cianfrance,784.01633,2,True
+derek hallquist,-7.360600000000001,1,False
+des mcanuff,-98.610285,1,False
+dexter fletcher,164.982256097561,1,False
+diederik van rooijen,613.0897833333333,1,False
+director x.,29.522381250000002,1,False
+dito montiel,-92.34281333333332,1,False
+dmitriy dyachenko,261.1787294117647,1,False
+dmitry bogolyubov,49.84206666666667,1,False
+dominic deacon,64.64122727272728,1,False
+dominic sena,127.8165,1,False
+don hall,229.13086222222225,3,True
+don scardino,-14.398096875,1,False
+donovan montierth,-98.83466666666666,1,False
+doug dearth,-44.29404,1,False
+doug ellin,54.79512666666667,1,False
+doug liman,109.71657853682895,3,False
+doug sweetland,161.93347285714285,1,False
+douglas mcgrath,1.9769291666666668,1,False
+drake doremus,1391.3600000000001,1,False
+drew goddard,-8.736315625,1,False
+drew pearce,-14.94134,1,False
+duke johnson,-28.672900000000002,1,False
+duncan jones,252.39524250000002,2,True
+dylan baker,-45.081500000000005,1,False
+dylan brown,15.149422000000001,1,False
+ed gass-donnelly,536.217675,1,False
+eddie nilsson,-99.94,1,False
+edgar wright,221.65818539215687,3,True
+edward zwick,166.57748166666667,1,False
+edwine dorival,-88.27620333333334,2,False
+eli roth,164.72501944444443,3,True
+elizabeth allen rosenbaum,83.13080666666667,1,False
+elizabeth banks,551.7297143103449,2,True
+enrique begné,148.16813333333334,1,False
+eric brevig,155.96836249999998,1,False
+eric darnell,296.5524419200627,2,True
+eric guillon,1279.637,1,False
+eric lavaine,-97.52435,1,False
+eric wareheim,-92.54493333333333,1,False
+erica hill,-90.665625,1,False
+ericson core,26.704591,1,False
+erik white,45.41105294117647,1,False
+ernie barbarash,-99.73835555555556,1,False
+espen sandberg,242.71353782608696,1,False
+etan cohen,83.05194125,2,False
+ethan coen,337.3049136796537,3,True
+ethan maniquis,270.96776,1,False
+eugene jarecki,-94.03906896551723,1,False
+evan goldberg,111.74308849431819,2,False
+f. gary gray,306.27958787272723,3,True
+f. javier gutiérrez,231.669132,1,False
+farhad safinia,-79.09106799999999,1,False
+farren blackburn,13.60665,1,False
+fede alvarez,475.16679999999997,1,False
+felix van groeningen,-47.874304,1,False
+fergal reilly,382.6409410958904,1,False
+floria sigismondi,-44.43545263157895,1,False
+florian henckel von donnersmarck,178.731369,1,False
+francis lawrence,340.6156776178141,5,True
+frank coraci,124.10332028439153,3,False
+frank miller,-37.46024307692308,1,False
+fred andrews,-88.96666666666667,1,False
+galen t. chu,283.0063638095238,1,False
+gareth edwards,561.0566570416667,3,True
+garry marshall,318.40255384615386,1,False
+garth davis,1146.4226666666666,1,False
+garth jennings,745.9397186666667,1,False
+gary eck,17.00478962962963,1,False
+gary fleder,134.9789181818182,1,False
+gary mckendry,-6.558505714285714,1,False
+gary ross,346.939363875,2,True
+gary shore,214.63103285714286,1,False
+gary winick,173.82846,1,False
+gavin hood,16.348439090909093,1,False
+gavin o'connor,139.63337375,2,True
+gavin wiesen,-50.274125000000005,1,False
+genndy tartakovsky,514.356192341629,3,True
+george clooney,182.35024701863352,2,True
+george hickenlooper,-81.822512,1,False
+george mendeluk,-97.11351428571429,1,False
+george miller,81.8684014814815,2,False
+george nolfi,152.8512450199203,1,False
+george ratliff,-99.4824,1,False
+george tillman jr.,63.08701670574027,3,False
+gerard johnstone,-84.20913333333333,1,False
+gerard mcmurray,950.9023461538461,1,False
+geremy jasper,47.109,1,False
+gil kenan,173.46591142857142,1,False
+gillian robespierre,232.40699999999998,1,False
+gina prince-bythewood,108.83895714285714,1,False
+glenn ficarra,108.42599236630036,3,False
+gonzalo lópez-gallego,430.35638,1,False
+gore verbinski,38.28222292929293,2,False
+graham annable,86.577085,1,False
+greg berlanti,366.92926631578945,2,True
+greg mclean,172.457325,1,False
+greg mottola,152.90526499999999,1,False
+greg strause,582.64973,1,False
+greg tiernan,643.9171315789474,1,False
+gregory jacobs,752.8317034482758,1,False
+gregory plotkin,454.51715181818184,2,True
+greta gerwig,686.1076899999999,1,False
+griffin dunne,211.64747,1,False
+guillermo del toro,352.2253479008711,3,True
+gurinder chadha,-83.57061,1,False
+gus van sant,-65.3436125,1,False
+guy boudreaux,249.98484,1,False
+guy ritchie,147.12273264029307,4,True
+hajime gonno,-45.39011666666667,1,False
+hallie meyers-shyer,148.91249333333334,1,False
+hans petter moland,4.331931666666667,1,False
+harald zwart,403.0233116666667,2,True
+hayden schlossberg,373.598422,1,False
+heidi ewing,-94.03906896551723,1,False
+henry hobson,-77.16088888888889,1,False
+henry joost,2350.13938,3,True
+huck botko,-68.1647,1,False
+ivan reitman,258.151116,2,True
+j blakeson,192.99052105263158,1,False
+j.a. bayona,496.0390807352941,2,True
+j.c. chandor,155.80315049019606,3,True
+j.j. abrams,280.9678986842105,2,True
+jackie earle haley,-94.47508571428571,1,False
+jacques audiard,-65.41301052631579,1,False
+jake kasdan,740.259432880117,3,True
+jake schreier,354.7308033333333,2,True
+jake scott,-96.44081,1,False
+jake szymanski,129.99424242424243,1,False
+jamal hill,-74.81078947368421,1,False
+james bobin,121.60615175678352,3,False
+james demonaco,1722.2143640740742,3,True
+james duffy,211.64747,1,False
+james foley,584.3173736363636,2,True
+james fotopoulos,412.74555499999997,1,False
+james franco,187.17667,1,False
+james gunn,298.7523555,3,True
+james l. brooks,-58.643185833333334,1,False
+james manera,-82.9662,1,False
+james mangold,255.96889366787903,3,True
+james marsh,722.1846133333333,1,False
+james mather,69.71524500000001,1,False
+james mcteigue,227.69199098290596,3,True
+james ponsoldt,151.26086444444445,2,True
+james wan,1486.1419853289474,4,True
+james watkins,759.7059866666667,1,False
+jamie travis,63.06917647058824,1,False
+jane lipsitz,172.50365833333333,1,False
+jared bush,579.6197440000001,1,False
+jarrad paul,-74.25446666666666,1,False
+jason eisener,-72.16823333333333,1,False
+jason friedberg,307.12494000000004,1,False
+jason hall,-50.07342,1,False
+jason marsden,-98.83466666666666,1,False
+jason miller,-79.944,1,False
+jason moore,418.0246696078432,2,True
+jason reisig,167.11409625,1,False
+jason reitman,89.5863,1,False
+jason winer,19.4698575,1,False
+jason zada,307.4923,1,False
+jaume collet-serra,317.50512429230764,5,True
+jay duplass,43.75565714285714,1,False
+jay roach,18.110619099923724,2,False
+jean-marc vallée,680.9869266666667,2,True
+jeb stuart,-98.90617,1,False
+jee-woon kim,61.10252333333334,1,False
+jeff newitt,147.53382727272728,1,False
+jeff nichols,-3.115367056530214,3,False
+jeff tomsic,175.09352142857142,1,False
+jeff tremaine,758.428965,1,False
+jeff wadlow,1371.6940375000001,2,True
+jeffrey blitz,-7.59202,1,False
+jehane noujaim,-88.2492,1,False
+jem cohen,-83.25200000000001,1,False
+jennifer arnold,94.02664444444444,1,False
+jennifer kent,274.11935,1,False
+jennifer lee,748.3132733333333,1,False
+jennifer yuh nelson,208.58881120074696,3,True
+jeremy garelick,248.57215652173915,1,False
+jeremy whittaker,-99.94,1,False
+jerry jameson,39.59865,1,False
+jesse peretz,417.22498,1,False
+jessie nelson,134.59716666666665,1,False
+jim field smith,143.40488499999998,1,False
+jim jarmusch,114.55072,1,False
+jim rash,437.07620000000003,1,False
+jim sheridan,-16.715668,1,False
+jim wilson,-89.30546,1,False
+jimmy hayward,12.07815597678917,2,False
+jin-ho hur,-56.82818595041322,1,False
+joachim rønning,242.71353782608696,1,False
+jodie foster,85.09973730158728,2,False
+joe carnahan,61.12833727272727,1,False
+joe cornish,-51.13288168187744,2,False
+joe johnston,62.63971273911642,3,False
+joe nussbaum,34.5397875,1,False
+joe russo,419.6585234980392,3,True
+joe swanberg,-37.638571428571424,2,False
+joe wright,141.60690101020407,4,True
+joel coen,337.3049136796537,3,True
+joel edgerton,1079.56954,1,False
+joel schumacher,-97.75276571428572,1,False
+johannes roberts,328.65158,2,True
+john cameron mitchell,24.10068,1,False
+john crowley,464.3285545454545,1,False
+john curran,-81.52263636363635,1,False
+john d. hancock,-99.42966666666668,1,False
+john erick dowdle,675.6375933333334,3,True
+john francis daley,223.62951630340018,2,True
+john hamburg,209.01356842105264,1,False
+john hillcoat,69.46272423076924,2,False
+john krasinski,1867.7782,1,False
+john lasseter,180.0776915,1,False
+john lee hancock,228.46435714285715,1,False
+john luessenhop,129.45763875,2,True
+john madden,373.3649466666667,2,True
+john michael mcdonagh,253.29090000000002,1,False
+john moore,230.70565,1,False
+john musker,325.01157666666666,1,False
+john r. leonetti,1973.6908862179484,2,True
+john requa,108.42599236630036,3,False
+john singleton,147.56674,1,False
+john stephenson,-72.37387142857142,1,False
+john stevenson,48.35195084745762,1,False
+john wells,93.411395,2,False
+john whitesell,157.28890625,1,False
+johnny remo,-90.3266,1,False
+jon cassar,207.68449,1,False
+jon erwin,566.8575791208792,2,True
+jon favreau,357.7943547310924,2,True
+jon gunn,521.9535217391305,1,False
+jon hurwitz,373.598422,1,False
+jon lucas,580.5513435714286,2,True
+jon m. chu,364.8334848992674,6,True
+jon stewart,-68.14283,1,False
+jon turteltaub,178.99849929106472,3,True
+jon watts,152.91268,2,True
+jonathan baker,-66.34393,1,False
+jonathan dayton,-26.218483999999997,1,False
+jonathan del val,41.68937,1,False
+jonathan demme,128.70018333333334,1,False
+jonathan english,-78.810356,1,False
+jonathan goldstein,223.62951630340018,2,True
+jonathan hensleigh,-90.09838333333333,1,False
+jonathan jakubowicz,-74.840125,1,False
+jonathan kasdan,-99.14695,1,False
+jonathan levine,171.43062418095238,5,True
+jonathan liebesman,198.82190966984126,3,True
+jonathan lynn,-33.572575,1,False
+jonathan soler,-93.33605555555555,1,False
+jonathan teplitzky,-24.17804,1,False
+jonathan van tulleken,211.64747,1,False
+jordan peele,3089.205285,2,True
+jordan vogt-roberts,203.28219405405403,1,False
+jorge r. gutiérrez,95.30308600000001,1,False
+jorma taccone,-33.007725,2,False
+jose g. ramos,2876.1302,1,False
+joseph dorman,126.25219999999999,1,False
+joseph gordon-levitt,650.3378,1,False
+joseph kosinski,68.19359861403508,3,False
+josh baker,-66.34393,1,False
+josh boone,2459.7236166666667,1,False
+josh gordon,132.6768190643275,2,True
+josh schwartz,-20.238464285714286,1,False
+josh trank,485.27795291666666,2,True
+joshua michael stern,141.12508333333332,1,False
+joshua moore,46.24612857142857,1,False
+joshua overbay,-97.00311111111111,1,False
+joshua tickell,-96.38615,1,False
+josie rourke,86.93893200000001,1,False
+joss whedon,449.51115764145993,2,True
+josé padilha,102.4848325,1,False
+juan josé campanella,-44.29404,1,False
+judd apatow,230.49296999999996,2,True
+julian gilbey,-94.24629,1,False
+julie anne robinson,174.78929976190474,2,True
+julie taymor,-98.610285,1,False
+junshu huang,2617.9241142857145,1,False
+justin baldoni,1050.0631571428573,1,False
+justin chadwick,-43.71388971428572,2,False
+justin lin,242.82274187027025,2,True
+justin simien,332.30168,1,False
+justin tipping,-98.49809,1,False
+justin zackham,49.00298769230769,1,False
+jérôme salle,-88.47357500000001,1,False
+k.w. jones,-62.65021348314607,1,False
+kabir khan,836.7565153846155,1,False
+karan johar,400.0652420306966,1,False
+karan malhotra,37.35913846153846,1,False
+karey kirkpatrick,167.11409625,1,False
+karyn kusama,-59.098933333333335,1,False
+kasi lemmons,-58.37065714285714,1,False
+kathryn bigelow,156.4046380952381,1,False
+kay cannon,347.8348952380952,1,False
+keith parmer,-99.44753750000001,1,False
+kelly asbury,92.03178166666666,2,False
+kelly fremon craig,112.17781111111111,1,False
+ken kwapis,163.58183749999998,2,True
+ken marino,525.56228,1,False
+ken scott,79.18828389610388,2,False
+kenneth branagh,327.5373712296651,4,True
+kenneth lonergan,359.4840840336135,2,True
+kevin connolly,-39.109,1,False
+kevin hench,-92.4554,1,False
+kevin kölsch,421.4340285714286,1,False
+kevin macdonald,55.974192,1,False
+kevin reynolds,131.278815,1,False
+kevin smith,-33.98115211711712,4,False
+kevin sorbo,141.37696666666665,1,False
+kevin tancharoen,94.02664444444444,1,False
+kim farrant,-98.38903,1,False
+kimberly peirce,174.69840000000002,1,False
+kiran nakti,462.68563473684213,1,False
+kirk demicco,324.4951296296296,1,False
+kirk jones,273.78779355555554,2,True
+kogonada,58.64442857142858,1,False
+kris pearn,251.78544743589742,1,False
+kriv stenders,129.97575824175826,1,False
+kyle balda,1373.8294277027026,2,True
+lana wachowski,14.88857351298061,2,False
+larry charles,177.15214923076923,1,False
+lars von trier,132.09891489361704,1,False
+lasse hallström,265.16734420693473,4,True
+lawrence kasanoff,-99.83620888888889,1,False
+lawrence kasdan,-89.99711666666667,1,False
+lawrence sher,-15.846236,1,False
+lee daniels,211.15314866666665,2,True
+lee kirk,-99.17822222222222,1,False
+lee sternthal,172.82846666666666,1,False
+lee tamahori,-68.76625130890052,1,False
+lee toland krieger,129.94845333333333,1,False
+lee unkrich,395.2221950714286,2,True
+leigh whannell,778.1538583333333,2,True
+len wiseman,69.4848704,1,False
+lena dunham,748.298,1,False
+lenny abrahamson,178.94448461538462,1,False
+leos carax,5.76065,1,False
+leslie small,752.4418099999999,3,True
+leslye headland,319.24670000000003,1,False
+lilly wachowski,14.88857351298061,2,False
+lisa azuelos,-5.168127272727273,1,False
+lisa cholodenko,806.8867250000001,1,False
+lisa tahon,-47.225922,1,False
+lone scherfig,294.45794666666666,1,False
+lorene scafaria,17.66959,1,False
+louis leterrier,211.21866537142856,3,True
+luc besson,377.84344333333337,3,True
+luca guadagnino,-64.826925,1,False
+lucia aniello,134.22178499999998,1,False
+luis prieto,65.88609523809524,1,False
+luke greenfield,85.95461714285715,1,False
+luke scott,-8.765175,1,False
+lívia gyarmathy,-88.2492,1,False
+m. night shyamalan,801.669428275641,4,True
+mabrouk el mechri,26.806029999999996,1,False
+maggie carey,175.2552,1,False
+malcolm d. lee,289.7086601010577,4,True
+marc forster,85.163618877193,3,False
+marc silverstein,186.105615625,1,False
+marc webb,309.020086064935,3,True
+marcio garcia,-98.4177,1,False
+marcus dunstan,-11.09906,1,False
+marcus nispel,914.7818516666667,2,True
+marielle heller,15.760909999999999,2,False
+mario van peebles,-95.8405375,1,False
+marius a. markevicius,-37.1112,1,False
+mark andrews,199.7873145945946,1,False
+mark duplass,43.75565714285714,1,False
+mark mylod,50.81892500000001,1,False
+mark neveldine,14.839876923076922,1,False
+mark romanek,-25.508546666666664,1,False
+mark tonderai,539.1881449275362,1,False
+mark vadik,43.75565714285714,1,False
+martin campbell,116.67555914285714,3,False
+martin mcdonagh,689.8208902777778,2,True
+martin scorsese,128.81229757930106,4,False
+marvin dau,-62.746792,1,False
+maryam keshavarz,6.553111111111111,1,False
+mateo gil,-72.94873333333334,1,False
+mathew cullen,-94.57835,1,False
+matt bettinelli-olpin,416.37267142857144,1,False
+matt marshall,-96.22849500000001,1,False
+matt piedmont,40.78253333333333,1,False
+matt reeves,193.82612865067082,3,True
+matt tory,70.26180333333333,1,False
+matthew charles santoro,-99.8944,1,False
+matthew diamond,-94.67046500000001,1,False
+matthew mebane,-98.83466666666666,1,False
+matthew vaughn,221.1787153731685,3,True
+matthijs van heijningen jr.,-27.43926842105263,1,False
+max joseph,407.67075000000006,1,False
+max nichols,-45.7449375,1,False
+mcg,90.32090923076925,2,False
+mel gibson,322.261705,1,False
+michael apted,55.65106862903227,2,False
+michael atwill,147.56674,1,False
+michael bay,323.1160103081059,4,True
+michael berry,-97.40452173913043,1,False
+michael carney,-1.1753076923076924,1,False
+michael cuesta,20.781446825396824,2,False
+michael dougherty,193.98393970588234,2,True
+michael dowse,-60.12313684210526,1,False
+michael gracey,360.31613095238095,1,False
+michael grandage,-57.26304117647059,1,False
+michael haneke,279.24787628865977,1,False
+michael hoffman,57.92083846153846,1,False
+michael lembeck,134.60497083333334,1,False
+michael mann,-71.90713714285715,1,False
+michael moore,33.0743,1,False
+michael patrick king,210.19029263157893,1,False
+michael polish,-3.67716,1,False
+michael radford,-98.02099,1,False
+michael rowe,71.67852631578947,1,False
+michael showalter,979.4572000000001,1,False
+michael spierig,1046.19798,2,True
+michael sucsy,558.7271999999999,1,False
+michael tiddes,1023.1117816666665,3,True
+michael w. watkins,-99.4988,1,False
+michael winterbottom,-72.1747923076923,1,False
+michaël r. roskam,51.22646031746032,1,False
+michel gondry,108.32318454545455,1,False
+michel hazanavicius,701.6044499999999,1,False
+mick jackson,-7.360600000000001,1,False
+miguel arteta,120.34509607142857,2,False
+miguel sapochnik,-43.13988125,1,False
+mikael håfström,105.37277596525097,2,False
+mike cahill,543.41395,2,True
+mike disa,-22.156296666666666,1,False
+mike flanagan,360.7321920634921,2,True
+mike leigh,114.98874553571429,2,False
+mike mccoy,587.4752916666667,1,False
+mike mitchell,256.5094256057794,5,True
+mike thurmeier,554.5374645363408,2,True
+mila aung-thwin,141.37696666666665,1,False
+mimi leder,90.366885,1,False
+mira nair,-32.96346,1,False
+miranda july,23.9174,1,False
+mona fastvold,-99.76036363636364,1,False
+morgan neville,489.2466,1,False
+morgan spurlock,245.6893955172414,2,True
+morten tyldum,796.5165457575758,2,True
+mustafa koray polat,49.84206666666667,1,False
+måns mårlind,129.11418571428572,1,False
+nae caranfil,-99.64026666666666,1,False
+nancy meyers,392.789275,1,False
+nanette burstein,36.26246875,1,False
+nat faxon,437.07620000000003,1,False
+natalie bible',-99.61694117647059,1,False
+nate parker,68.91011,1,False
+nathan greno,125.56816923076923,1,False
+neil boultby,356.00462914285714,1,False
+neil burger,350.44492745098034,2,True
+neil labute,133.22491904761904,1,False
+neil marshall,-32.991014666666665,2,False
+neill blomkamp,126.39165968537415,2,False
+nicholas jarecki,198.58927500000001,1,False
+nicholas mccarthy,229.82853333333333,1,False
+nicholas stoller,402.393754515873,5,True
+nick cassavetes,387.7779825,1,False
+nick love,-99.9974,1,False
+nick noyes,-90.665625,1,False
+nick park,-9.42822,1,False
+nick weiss,-99.44983333333333,1,False
+nicolai fuglsig,103.19536571428571,1,False
+nicolas winding refn,127.82896888888888,3,False
+nicole holofcener,136.30368958333332,2,True
+niels arden oplev,45.600968333333334,2,False
+nigel cole,95.55245,1,False
+niki caro,168.87014117647058,1,False
+nikolaj arcel,89.102545,1,False
+nima nourizadeh,383.38238095238097,2,True
+nimród antal,84.27328069444445,2,False
+nisha ganatra,-93.842375,1,False
+nitesh tiwari,3001.627557894737,1,False
+noam murro,200.70913727272725,1,False
+ole bornedal,492.32188571428577,1,False
+oliver parker,265.8675577777778,1,False
+oliver stone,27.06257355555556,2,False
+olivier megaton,410.1550819444445,2,True
+oren peli,-99.84888,1,False
+otto bathurst,-14.396524242424242,1,False
+pablo larraín,306.53902222222223,1,False
+panos cosmatos,-76.20573333333334,1,False
+paolo sorrentino,84.62748461538462,1,False
+pascal vuong,230.30406000000002,1,False
+patricia riggen,240.64272230769234,2,True
+patrick brice,482.998,1,False
+patrick doughtie,7.915066666666666,1,False
+patrick hughes,109.461378,1,False
+patrick lussier,-17.914834,1,False
+patrik forsberg,211.64747,1,False
+patty jenkins,447.42225199999996,1,False
+paul bunnell,-99.87819999999999,1,False
+paul feig,386.08553911280063,5,True
+paul fisher,75.33885857142857,1,False
+paul greengrass,181.83615545454543,3,True
+paul haggis,124.18638666666666,1,False
+paul mcguigan,-22.1890825,1,False
+paul schrader,-86.77860999999999,2,False
+paul spurrier,307.4923,1,False
+paul thomas anderson,4.460752999999999,2,False
+paul tibbitt,320.2880824324324,1,False
+paul w.s. anderson,193.9492812043618,4,True
+paul weitz,127.37784853846154,2,False
+per fly,-95.7028375,1,False
+pete docter,388.1348525714286,1,False
+pete travis,-7.849764444444444,1,False
+peter atencio,37.920939999999995,1,False
+peter berg,83.42065003280054,5,False
+peter callow,125.84368888888888,1,False
+peter chelsom,-45.06198333333333,1,False
+peter farrelly,382.31032697612955,5,True
+peter hedges,6.1118756730769235,2,False
+peter jackson,289.72640586666665,3,True
+peter landesman,-19.96996357142857,2,False
+peter lepeniotis,308.43322,1,False
+peter lord,147.53382727272728,1,False
+peter ramsey,111.65579448275862,1,False
+peter rida michail,416.20593,1,False
+peter sattler,-89.8947,1,False
+peter segal,188.81593487261148,2,True
+peter sohn,78.01121973333333,1,False
+peter sollett,-75.25388571428572,1,False
+peter spierig,1046.19798,2,True
+peyton reed,339.23196499999995,2,True
+phil johnston,199.59068285714287,1,False
+phil lord,536.1456003492063,3,True
+philippa frisby,125.84368888888888,1,False
+phillip noyce,144.86906153846155,2,True
+pierre coffin,1154.6171793500164,4,True
+pierre morel,18.626435730769234,3,False
+prachya pinkaew,-98.83937142857143,1,False
+qing zhu,-40.89794347826087,1,False
+quentin tarantino,244.22003730645162,2,True
+r.j. cutler,612.3288181818182,1,False
+rachel grady,-94.03906896551723,1,False
+radu mihaileanu,-97.61688,1,False
+rafa lara,-98.26528,1,False
+raja gosnell,314.68038454545456,2,True
+randal kamradt,730.3078947368422,1,False
+randall wallace,406.73636059523807,2,True
+randy moore,-73.5443076923077,1,False
+rawson marshall thurber,367.1699367243243,3,True
+ray griggs,8.397,1,False
+rebecca harrell tickell,-96.38615,1,False
+reber dosky,445.48028124999996,1,False
+reed cowan,-95.9888,1,False
+reginald hudlin,-15.6932,1,False
+remo d'souza,433.53863157894733,1,False
+renny harlin,-57.524682261904765,2,False
+rian johnson,468.22135,1,False
+ric roman waugh,286.05156,1,False
+ric white,-40.89794347826087,1,False
+rich moore,326.7088333968254,3,True
+richard curtis,644.24315,1,False
+richard lagravenese,20.565752,1,False
+richard lanni,-85.416172,1,False
+richard linklater,653.7539394444444,3,True
+richie keen,61.145664,1,False
+rick famuyiwa,106.40074285714286,2,False
+ridley scott,200.63868159442902,6,True
+roar uthaug,203.86389,1,False
+rob cohen,404.5589904761905,3,True
+rob greenberg,611.41525,1,False
+rob letterman,140.5667447044335,2,True
+rob marshall,198.86406941027371,3,True
+rob minkoff,86.0734,1,False
+rob reiner,-34.900782539682545,2,False
+rob thomas,-41.91028333333333,1,False
+rob zombie,-38.48486666666667,1,False
+robbie pickering,-99.78497575757575,1,False
+robert adetuyi,-87.69458,1,False
+robert lorenz,-20.301811666666666,1,False
+robert luketic,-15.85887525,2,False
+robert pulcini,-92.96988571428571,1,False
+robert rodriguez,90.47932224547512,4,False
+robert schwentke,94.11385108974358,2,False
+robert stromberg,321.4092972222222,1,False
+robert zemeckis,108.68720664447055,4,False
+robin b. murray,-70.71082666666668,1,False
+robin bissell,2.0561599999999998,1,False
+rod lurie,-54.984716,1,False
+rodrigo cortés,476.0750498489188,2,True
+rodrigo garcía,13.853373333333332,1,False
+roger christian,-84.96878947368421,1,False
+roger donaldson,132.13556666666665,1,False
+roger kumble,12.400505714285714,1,False
+roger michell,49.487674999999996,1,False
+roger spottiswoode,117.28366249999999,1,False
+rohan sippy,123.71974999999999,1,False
+rohit jugraj,203.70370370370372,1,False
+roland emmerich,42.43371791919191,3,False
+roland joffé,-88.83058333333334,1,False
+roman polanski,49.03818688888889,2,False
+ron clements,325.01157666666666,1,False
+ron howard,76.92667362483482,5,False
+ron shelton,-69.28903636363636,1,False
+ronan chapalain,230.30406000000002,1,False
+ronnie del carmen,388.1348525714286,1,False
+rowan joffe,-11.07464090909091,1,False
+roze,-78.04866666666666,1,False
+ruairi robinson,-97.53430188679245,1,False
+ruben fleischer,251.89931114942524,3,True
+rupert sanders,94.27061326203209,2,False
+rupert wyatt,132.42736606451612,3,True
+rusty cundieff,211.64747,1,False
+ry russo-young,119.64587,2,False
+ryan coogler,931.0637459419419,3,True
+ryan fleck,262.3306660714286,2,True
+ryan graves,-86.86296296296297,1,False
+ryan lee,196.92145846153846,1,False
+ryan murphy,244.331315,1,False
+rza,46.79325333333333,1,False
+s. craig zahler,-76.2077,1,False
+s.s. rajamouli,372.5923545833333,2,True
+sajid khan,85.4089108910891,1,False
+salim akil,295.8630507142857,2,True
+sam fell,80.19943666666667,1,False
+sam levinson,-75.536825,1,False
+sam mendes,324.2352324166667,2,True
+sam miller,311.53946969696966,1,False
+sam raimi,145.17952549999998,1,False
+sam taylor-johnson,1327.4952524999999,1,False
+samuel bayer,236.3703457142857,1,False
+sanaa hamri,82.23054166666667,1,False
+sandra luckow,-99.77738461538462,1,False
+sanjay rawal,-99.98072289156626,1,False
+sarah gavron,143.1779214285714,1,False
+sarah smith,76.13779294117647,1,False
+scott cooper,28.321400471698112,2,False
+scott derrickson,1109.1303737373737,3,True
+scott frank,121.81638214285715,1,False
+scott hicks,286.535332,1,False
+scott mann,-62.65021348314607,1,False
+scott moore,580.5513435714286,2,True
+scott speer,401.67360606060606,1,False
+scott stewart,297.32857183150185,3,True
+scott walker,-70.74239583333333,1,False
+scott waugh,390.83584204545457,2,True
+sean anders,105.11052805555555,3,False
+sean baker,464.7662,1,False
+sean durkin,443.8911,1,False
+sean mcnamara,161.9925111111111,1,False
+seth gordon,251.75193686576358,4,True
+seth macfarlane,449.47073657843134,3,True
+seth rogen,111.74308849431819,2,False
+shana feste,55.468722500000005,2,False
+shane black,202.70849901515155,3,True
+shane dawson,-95.539,1,False
+shari springer berman,-92.96988571428571,1,False
+shawn levy,132.65577847066373,5,True
+shintaro shimosawa,-78.61353636363636,1,False
+simon curtis,337.50471000000005,2,True
+simon j. smith,177.9867659090909,1,False
+simon kinberg,-57.21075714285714,1,False
+simon wells,-73.63349466666666,1,False
+simon west,39.3356402955182,4,False
+sngmoo lee,-79.72779761904762,1,False
+sofia coppola,143.18744285714286,1,False
+sophon sakdaphisit,-88.27620333333334,1,False
+spike lee,520.1155666666667,1,False
+stacy title,321.4557702702703,1,False
+stefan ruzowitzky,-72.10608333333333,1,False
+stefania müller,-88.75400384615385,1,False
+stefano sollima,116.81484571428571,1,False
+stella meghie,516.0313600000001,1,False
+stephen chbosky,788.701406923077,2,True
+stephen frears,408.8997752873563,2,True
+stephen hopkins,374.91544,1,False
+stephen j. anderson,67.15202333333333,1,False
+stephen merchant,254.99929090909092,1,False
+stephen milburn anderson,-99.33588571428571,1,False
+stephen susco,1543.4587999999999,1,False
+steve antin,64.64122727272728,1,False
+steve carr,192.94898794117648,2,True
+steve gomer,197.0997,1,False
+steve martino,489.34317657097296,2,True
+steve mcqueen,367.9452142307692,3,True
+steve pink,120.96923754578755,3,False
+steve purcell,199.7873145945946,1,False
+steve saint leger,69.71524500000001,1,False
+steve taylor,-50.415166666666664,1,False
+steven brill,211.64747,1,False
+steven caple jr.,327.183044,1,False
+steven greenstreet,-95.9888,1,False
+steven knight,-47.71491373913044,2,False
+steven quale,244.19332725,2,True
+steven r. monroe,-26.944514285714288,1,False
+steven s. deknight,87.69686967741936,1,False
+steven soderbergh,698.0897953530377,5,True
+steven spielberg,218.1120541899529,7,True
+steven young,-87.77857142857142,1,False
+stewart hendler,-54.36919999999999,1,False
+stewart raffill,-90.50346428571429,1,False
+stiles white,1966.01264,1,False
+stuart beattie,14.731215384615384,1,False
+stuart cameron,1088.4196666666667,1,False
+stuart ortiz,7.5943499999999995,1,False
+sudeshna roy,143.388614,1,False
+sunil prem vyas,701.6044499999999,1,False
+sunil subramani,86.46948913043478,1,False
+sunkanmi adebayo,360.4423,1,False
+sylvain white,218.3459,2,True
+sylvester stallone,227.15630975609758,1,False
+tadhg o'sullivan,122.99123466666666,1,False
+taika waititi,612.1828888888888,2,True
+tarsem singh,105.27469680744092,3,False
+tate taylor,459.2275823333333,4,True
+taylor hackford,-30.360004857142854,2,False
+terrence malick,76.34807428571429,1,False
+the vicious brothers,7.5943499999999995,1,False
+thea sharrock,941.32599,1,False
+theodore melfi,574.4558704615384,2,True
+thomas bezucha,98.43384499999999,1,False
+thomas carter,100.92608000000001,1,False
+thor freudenthal,268.10301111111113,2,True
+tim burton,171.14975498069379,5,True
+tim heidecker,-92.54493333333333,1,False
+tim hill,199.45649682539684,1,False
+tim johnson,196.92145846153846,1,False
+tim kirkby,-73.13855263157895,1,False
+tim martin crouse,-40.89794347826087,1,False
+tim miller,1281.0786086206897,1,False
+tim story,490.36166760416666,8,True
+timothy fielding,75.69172571428572,1,False
+timothy hines,-99.87819999999999,1,False
+timothy reckart,213.79005,1,False
+timur bekmambetov,50.09142760233918,2,False
+tina gordon,-15.3894,1,False
+tod williams,5817.067733333333,1,False
+todd graff,13.301505454545454,1,False
+todd haynes,263.080686440678,1,False
+todd lincoln,-37.42775882352941,1,False
+todd phillips,310.4339203653846,3,True
+todd robinson,-93.33605555555555,1,False
+todd strauss-schulson,81.328725,1,False
+tom brady,-74.70605,1,False
+tom dey,79.79186,1,False
+tom ford,43.99413777777777,1,False
+tom gormican,563.3619375000001,1,False
+tom hanks,104.83045,1,False
+tom mccarthy,360.4423,1,False
+tom mcgrath,290.4755573821397,3,True
+tom putnam,393.01155555555556,1,False
+tom tykwer,-19.02166092436975,2,False
+tom vaughan,-48.9452129032258,1,False
+tomas alfredson,155.68690142857142,2,True
+tommy lee jones,-48.64018125,1,False
+tommy wirkola,329.899432,1,False
+tony gilroy,124.28473600000001,1,False
+tony goldwyn,-5.3841600000000005,1,False
+tony leondis,333.124624,1,False
+tony scott,74.4430747368421,1,False
+travis cluff,41556.473999999995,1,False
+travis knight,198.53534615864527,2,True
+travis legge,-90.92,1,False
+trevor wall,69.64255555555555,1,False
+trey edward shults,294.40406,1,False
+trish sie,312.7475822222222,1,False
+tyler gillett,416.37267142857144,1,False
+tyler perry,133.74381936904763,4,True
+u. roberto romano,-99.33767857142857,1,False
+valerie faris,-26.218483999999997,1,False
+van royko,141.37696666666665,1,False
+vera farmiga,-53.183722222222215,1,False
+vic armstrong,29.80755625,1,False
+vidhu vinod chopra,-99.97686,1,False
+vijay chandar,-99.34505263157895,1,False
+vijay krishna acharya,-51.15158333333333,1,False
+wajahat rauf,-98.2279,1,False
+wally pfister,3.039258,1,False
+walt becker,177.24217333333334,1,False
+walt dohrn,175.3201072,1,False
+warren p. sonoda,-94.78014285714286,1,False
+wayne thornley,72.27168,1,False
+wayne wang,89.13674999999999,1,False
+wes anderson,379.63729858870965,2,True
+wes ball,666.7975175747349,2,True
+wes craven,53.4419275,2,False
+will gluck,470.1874673392857,4,True
+will graham,211.64747,1,False
+will speck,132.6768190643275,2,True
+william brent bell,5329.07926,2,True
+william eubank,-33.36695,1,False
+william h. macy,-88.65562,1,False
+william phillips,-95.37319191919192,1,False
+wojciech staron,37.35913846153846,1,False
+woody allen,321.8589385594315,4,True
+xiao feng,-99.20572461538461,1,False
+yan vizinberg,-92.54214285714286,1,False
+yann demange,-13.506723333333333,1,False
+yarrow cheney,1082.3340453333333,1,False
+yash chopra,-36.8840652173913,1,False
+yorgos lanthimos,527.4261933333333,1,False
+youssef delara,-85.9532,1,False
+yuefeng song,-98.1639425,1,False
+yun xie,2617.9241142857145,1,False
+zach braff,118.82924791666667,2,False
+zack snyder,124.38635181333333,5,False
+zal batmanglij,-53.416061538461534,1,False
