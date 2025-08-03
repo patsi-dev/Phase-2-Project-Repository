@@ -34,9 +34,3 @@ Our company wants to launch a movie studio but has no film production experience
 | Rotten Tomatoes  | Critic/audience scores                | Excluded - lacks financial data      |
 | TheMovieDB       | Popularity metrics                    | Excluded - no profitability metrics  |
 | Box Office Mojo  | Domestic gross (2010-2018)            | Excluded - redundant financial data  |
-
-### Key Insights from Initial Exploration
-**The Numbers Dataset:**
-```python
-print(f"Films: {len(df_budget)} | Timeframe: {df_budget['release_date'].min()} to {df_budget['release_date'].max()}")
-# Output: Films: 5,782 | Timeframe: 1975-04-01 to 2019-09-09
