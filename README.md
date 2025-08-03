@@ -34,3 +34,25 @@ Our company wants to launch a movie studio but has no film production experience
 | Rotten Tomatoes  | Critic/audience scores                | Excluded - lacks financial data      |
 | TheMovieDB       | Popularity metrics                    | Excluded - no profitability metrics  |
 | Box Office Mojo  | Domestic gross (2010-2018)            | Excluded - redundant financial data  |
+
+---
+
+## Data Quality Check
+
+### IMDB Genre Distribution:
+Documentary     41665
+Drama           31329
+Comedy          21584
+Biography       10293
+Horror           9421
+Name: count, dtype: int64
+
+### Financial Data Completeness:
+id: 0
+release_date: 0
+movie: 0
+production_budget: 0
+domestic_gross: 0
+worldwide_gross: 0
+
+###
