@@ -6,7 +6,7 @@ This analysis uses historical movie data to identify patterns in successful film
 
 #### For a non-technical presentation of the data, check this [link](https://github.com/patsi-dev/Phase-2-Project-Repository/blob/main/Presentation.pdf)
 
-#### For a Tableau presentation, refer to this [https://public.tableau.com/authoring/Aircraft_Risk_Analysis_Final_Visualisation/Dashboard1#1](https://public.tableau.com/app/profile/warren.patsi/viz/Movies_recommendation/Dashboard1?publish=yes))
+#### For a Tableau presentation, refer to this [Movie_recommendation](https://public.tableau.com/app/profile/warren.patsi/viz/Movies_recommendation/Dashboard1?publish=yes))
 
 ## Business Understanding
 
