@@ -151,3 +151,134 @@ Budget Allocation
 - Evaluated seasonal patterns by release month
 
 - Ranked directors by consistency and ROI performance
+
+---
+
+## 3. Data Preparation
+
+### Cleaning Process
+1. **Currency Conversion**:
+   ```python
+   # Convert $110,000,000 → 110000000
+   for col in ['production_budget', 'domestic_gross', 'worldwide_gross']:
+       df_budget[col] = df_budget[col].str.replace('$', '').str.replace(',', '').astype(int)
+   ```
+
+2. **Date Handling**:
+   ```python
+   df_budget['release_date'] = pd.to_datetime(df_budget['release_date'], format='%b %d, %Y')
+   ```
+
+3. **Genre Extraction**:
+   ```python
+   movies['main_genre'] = movies['genres'].str.split(',').str[0]
+   ```
+
+### Merging Strategy
+```mermaid
+graph LR
+    A[TheNumbers] -->|Title + Year| C[Merged Data]
+    B[IMDB] -->|Title + Year| C
+    C -->|Movie ID| D[+ Directors]
+```
+
+### Feature Engineering
+```python
+# Profit calculations
+movie_df['profit'] = movie_df['worldwide_gross'] - movie_df['production_budget']
+movie_df['roi'] = (movie_df['profit'] / movie_df['production_budget']) * 100
+
+# Release month
+movie_df['release_month'] = movie_df['release_date'].dt.month_name()
+
+# Budget categories
+movie_df['budget_category'] = pd.cut(
+    movie_df['production_budget'],
+    bins=[0, 10e6, 50e6, float('inf')],
+    labels=['low', 'medium', 'high']
+)
+```
+
+---
+
+ 4. Analysis & Results
+
+### 4.1 Top 5 Profitable Genres
+```python
+top_genres = movie_df.groupby('main_genre')['roi'].mean().nlargest(5)
+print(top_genres)
+```
+| Genre | Avg ROI | 
+|-------|---------|
+| Horror | 1679% |
+| Family | 686% |
+| Animation | 332% | 
+| Drama | 310% |
+| Mystery | 267% |
+
+![Top Genres](https://i.imgur.com/sample_genres.png)
+
+### 4.2 Best Release Timing
+```python
+monthly_roi = movie_df.groupby('release_month')['roi'].mean().nlargest(3)
+print(monthly_roi)
+```
+| Month | Avg ROI |
+|-------|---------|
+| July | 692% |
+| January | 413% |
+| October | 341% |
+
+![Monthly ROI](https://i.imgur.com/sample_months.png)
+
+### 4.3 Low-Budget Performance
+```python
+low_budget_roi = movie_df[movie_df['budget_category']=='low']['roi'].mean()
+print(f"Low-budget ROI: {low_budget_roi:.0f}%")
+# Output: Low-budget ROI: 576%
+```
+
+![Budget Comparison](https://i.imgur.com/sample_budget.png)
+
+### 4.4 Director Recommendations
+```python
+top_directors = director_stats[director_stats['proven_director']].sort_values('avg_roi', ascending=False).head(3)
+print(top_directors[['director_clean', 'avg_roi']])
+```
+| Director | Avg ROI | Specialty |
+|----------|---------|-----------|
+| William Brent Bell | 5329% | Horror |
+| Jordan Peele | 3089% | Horror |
+| Barry Jenkins | 2158% | Drama |
+
+![Top Directors](https://i.imgur.com/sample_directors.png)
+
+---
+
+## 5. Recommendations
+
+### Strategic Action Plan
+1. **Genre Focus**:
+   - Produce horror films as primary genre
+   - Use drama for secondary productions
+
+2. **Budget Allocation**:
+   - Keep 70% of films under $10M budget
+   - Target horror films for low-budget productions
+
+3. **Release Calendar**:
+   - Schedule major releases in July
+   - Use January/October for secondary releases
+
+4. **Director Partnerships**:
+   - Prioritize horror specialists
+   - Consider Barry Jenkins for drama projects
+
+### Expected Outcomes
+| Metric | Current Avg | Our Target |
+|--------|-------------|------------|
+| ROI | 211% | 500%+ |
+| Production Cost | $48M | <$10M |
+| Success Rate | 40% | 65%+ |
+
+---
