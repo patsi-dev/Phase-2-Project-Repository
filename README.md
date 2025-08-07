@@ -176,7 +176,6 @@ Budget Allocation
 
 ### Merging Strategy
 ```mermaid
-graph LR
     A[TheNumbers] -->|Title + Year| C[Merged Data]
     B[IMDB] -->|Title + Year| C
     C -->|Movie ID| D[+ Directors]
@@ -216,7 +215,7 @@ print(top_genres)
 | Drama | 310% |
 | Mystery | 267% |
 
-![Top Genres](https://i.imgur.com/sample_genres.png)
+![Top Genres](https://public.tableau.com/app/profile/warren.patsi/viz/Movies_recommendation/Dashboard1)
 
 ### 4.2 Best Release Timing
 ```python
@@ -229,7 +228,7 @@ print(monthly_roi)
 | January | 413% |
 | October | 341% |
 
-![Monthly ROI](https://i.imgur.com/sample_months.png)
+![Monthly ROI](https://public.tableau.com/app/profile/warren.patsi/viz/Movies_recommendation/Dashboard1)
 
 ### 4.3 Low-Budget Performance
 ```python
@@ -238,7 +237,7 @@ print(f"Low-budget ROI: {low_budget_roi:.0f}%")
 # Output: Low-budget ROI: 576%
 ```
 
-![Budget Comparison](https://i.imgur.com/sample_budget.png)
+![Budget Comparison](https://public.tableau.com/app/profile/warren.patsi/viz/Movies_recommendation/Dashboard1)
 
 ### 4.4 Director Recommendations
 ```python
@@ -251,7 +250,7 @@ print(top_directors[['director_clean', 'avg_roi']])
 | Jordan Peele | 3089% | Horror |
 | Barry Jenkins | 2158% | Drama |
 
-![Top Directors](https://i.imgur.com/sample_directors.png)
+![Top Directors](https://public.tableau.com/app/profile/warren.patsi/viz/Movies_recommendation/Dashboard1)
 
 ---
 
