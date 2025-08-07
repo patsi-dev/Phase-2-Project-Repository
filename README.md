@@ -45,103 +45,109 @@ Our company wants to launch a movie studio but has no film production experience
 
 ---
 ## Data Analysis
-Key Findings
+### Key Findings
 1. Top Performing Genres
-Horror films deliver exceptional ROI (912% average)
+- Horror films deliver exceptional ROI (912% average)
 
-Family (687%) and Animation (332%) genres show strong returns
+- Family (687%) and Animation (332%) genres show strong returns
 
-Drama (301%) and Mystery (287%) provide solid profitability
+- Drama (301%) and Mystery (287%) provide solid profitability
 
-Low-budget horror films outperform all others (1143% ROI)
+- Low-budget horror films outperform all others (1143% ROI)
 
 2. Optimal Release Timing
-July releases generate highest returns (350%+ ROI)
+- July releases generate highest returns (350%+ ROI)
 
-January and October are secondary peak months
+- January and October are secondary peak months
 
-March, September and December show weakest performance
+- March, September and December show weakest performance
 
 3. Low-Budget Viability
 Films under $10M outperform higher-budget movies (506% vs 211% ROI)
 
-Top low-budget genres: Horror (1143%), Drama (423%), Biography (396%)
+- Top low-budget genres: Horror (1143%), Drama (423%), Biography (396%)
 
-Budget sweet spot: Horror films under $1M deliver 1143% ROI
+- Budget sweet spot: Horror films under $1M deliver 1143% ROI
 
 4. Director Recommendations
-Henry Joost
+**Henry Joost**
 
-Specialization: Horror
+Specialization: **Horror**
 
-Avg. ROI: 2503%
+Avg. ROI: **2503%**
 
 Notable approach: Found-footage style with minimal budgets
 
-Ariel Schulman
+**Ariel Schulman**
 
-Specialization: Horror/Documentary
+Specialization: **Horror/Documentary**
 
-Avg. ROI: 2503%
+Avg. ROI: **2503%**
 
 Key strength: Viral marketing strategies
 
-James Wan
+**James Wan**
 
-Specialization: Horror
+Specialization: **Horror**
 
-Avg. ROI: 1486%
+Avg. ROI: **1486%**
 
 Track record: Successful franchise launches
 
-Recommendations
+###Recommendations
 Genre Strategy
 
-Prioritize horror films with budgets under $10M
 
-Develop 1-2 family animation films annually
+- Prioritize horror films with budgets under $10M
 
-Include limited drama/biography projects for awards potential
+- Develop 1-2 family animation films annually
+
+- Include limited drama/biography projects for awards potential
+
 
 Release Calendar
 
-Target July for tentpole horror releases
+- Target July for tentpole horror releases
 
-Schedule secondary horror films in January/October
+- Schedule secondary horror films in January/October
 
-Avoid March/September releases
+- Avoid March/September releases
 
 Talent Acquisition
 
-Recruit proven horror specialists first
+- Recruit proven horror specialists first
 
-Consider drama specialists for prestige projects
+- Consider drama specialists for prestige projects
 
-Implement profit-sharing contracts to align incentives
+- Implement profit-sharing contracts to align incentives
 
 Budget Allocation
 
-Cap initial productions at $10M
+- Cap initial productions at $10M
 
-Allocate 70% of budget to horror films
+- Allocate 70% of budget to horror films
 
-Reserve 15% for experimental low-budget projects
+- Reserve 15% for experimental low-budget projects
 
-Methodology
-Data Sources
-The Numbers Dataset (2010-2020):
-Production budgets, worldwide gross earnings, release dates
+## Methodology
+### Data Sources
+**The Numbers Dataset (2010-2020):**
 
-IMDB Database:
-Genre classifications, director credits, film metadata
+- Production budgets, worldwide gross earnings, release dates
 
-Analytical Approach
-Calculated ROI: (Worldwide Gross - Production Budget) / Production Budget
+**IMDB Database:**
 
-Identified outliers and capped extreme values (top 1%)
+- Genre classifications, director credits, film metadata
 
-Analyzed genre performance across budget tiers
 
-Evaluated seasonal patterns by release month
+## Analytical Approach
 
-Ranked directors by consistency and ROI performance
+-Calculated ROI: (Worldwide Gross - Production Budget) / Production Budget
+
+- Identified outliers and capped extreme values (top 1%)
+
+- Analyzed genre performance across budget tiers
+
+- Evaluated seasonal patterns by release month
+
+- Ranked directors by consistency and ROI performance
